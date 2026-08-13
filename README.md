@@ -8,7 +8,7 @@
   </a>
 
   <p>
-    <b>Hi, I'm Vinutha</b> — an Information Science & Engineering student at Adichunchanagiri Institute of Technology (CGPA: 9.13/10.0) and Java Development Intern at Codveda Technologies.
+    <b>Hi, I'm Vinutha</b> — an Information Science & Engineering student at Adichunchanagiri Institute of Technology (CGPA: 9.13/10.0) and Java Development Intern at Codveda Technologies
   </p>
   
   <p>
@@ -28,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
 
-### 🐍 **Contribution Snake**
+###  **Contribution**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vinutha1010/Vinutha1010/output/github-contribution-grid-snake-dark.svg" alt="Vinutha's Contribution Snake" width="100%" />
@@ -50,14 +50,16 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
 
-### 🚀 **Featured GitHub Repositories**
-
-
+### 🚀 **Featured Repositories**
 
 <div align="center">
-  <a href="https://github.com/Vinutha1010?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinutha1010&repo=Vinutha1010&theme=synthwave&title_color=FF69B4&text_color=FFFFFF&bg_color=18181B&border_color=FF69B4" alt="Pinned Repo 1" />
-  </a>
+
+| Repository | Description | Language | Link |
+| :--- | :--- | :---: | :---: |
+| **Codveda-Java-Projects** | A comprehensive repository containing 9 Java projects across 3 levels—featuring console utilities, OOP architecture, file I/O, database management with JDBC, and socket programming[cite: 1]. | ![Java](https://img.shields.io/badge/Java-FF69B4?style=flat&logo=openjdk&logoColor=white) | [**View Repo →**](https://github.com/Vinutha1010/Codveda-Java-Projects) |
+| **Java-beginner-projects** | Beginner-friendly Java console applications demonstrating OOP concepts and core Java fundamentals. | ![Java](https://img.shields.io/badge/Java-FF69B4?style=flat&logo=openjdk&logoColor=white) | [**View Repo →**](https://github.com/Vinutha1010/Java-beginner-projects) |
+| **Java-stopwatch-timer** | A customizable, always-on-top Java Swing desktop stopwatch & timer with multiple themes. | ![Java](https://img.shields.io/badge/Java-FF69B4?style=flat&logo=openjdk&logoColor=white) | [**View Repo →**](https://github.com/Vinutha1010/Java-stopwatch-timer) |
+
 </div>
 
 <p align="center">
@@ -68,11 +70,16 @@
 
 ### 🏆 **Certifications & Achievements**
 
-*   🏆 **1st Place Winner:** PALS Think2Impact Workshop[cite: 1]
-*   📜 **NPTEL Elite:** DSA using Java (IIT Kharagpur) & Joy of Computing with Python[cite: 1]
-*   📜 **MongoDB Certified:** Document Model & Atlas[cite: 1]
-*   📜 **Cisco Academy:** Introduction to Cybersecurity | **Simplilearn:** AWS Services Fundamentals[cite: 1]
-*   📜 **Skill India Digital:** AI Certification (270 Hrs)[cite: 1]
+*   🏆 **1st Place Winner:** PALS Think2Impact Workshop
+*   🚀 **Participant:** Smart India Internal Hackathon (SIH 2025) – *Disaster Management Theme*
+*   📜 **NPTEL Elite:** The Joy of Computing using Python]
+*   📜 **NPTEL Elite:** DSA using Java (IIT Kharagpur)
+*   📜 **NPTEL:** Data Mining for Decision Making
+*   📜 **PostgreSQL:** Become an SQL Developer
+*   📜 **Simplilearn:** Getting Started with AWS Services Fundamentals for Beginners
+*   📜 **MongoDB Certified:** Document Model & Atlas
+*   📜 **Cisco Academy:** Introduction to Cybersecurity
+*   📜 **Skill India Digital:** AI Certification (270 Hrs)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
 

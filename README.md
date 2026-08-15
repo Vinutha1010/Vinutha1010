@@ -13,6 +13,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vcenter=true&width=550&height=40&lines=Software+Engineer;Java+%26+Full-Stack+Developer;Building+Elegance+%26+Precision;Information+Science+Graduate" alt="Typing SVG" />
   </a>
 
+  <br/>
+
   <p>
     <b>Hi, I'm Vinutha</b> — an Information Science & Engineering student at Adichunchanagiri Institute of Technology (CGPA: 9.13/10.0) and Java Development Intern at Codveda Technologies.
   </p>
@@ -33,17 +35,21 @@
 
 </div>
 
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
+<br/><br/>
 
-### <font color="#FF69B4">▦</font> **Contribution Graph**
+### <img src="https://cdn.simpleicons.org/github/FF69B4" width="22" style="vertical-align: middle;" /> **Contribution**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Vinutha1010/Vinutha1010/output/github-contribution-grid-snake-dark.svg" alt="Vinutha's Contribution Snake" width="100%" />
 </div>
 
+<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
+<br/><br/>
 
-### <font color="#FF69B4">⚒</font> **Skills & Technologies**
+### <img src="https://cdn.simpleicons.org/codeigniter/FF69B4" width="22" style="vertical-align: middle;" /> **Skills & Technologies**
 
 <div align="center">
 
@@ -55,9 +61,11 @@
 
 </div>
 
+<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
+<br/><br/>
 
-### <font color="#FF69B4">◳</font> **Featured Repositories**
+### <img src="https://cdn.simpleicons.org/git/FF69B4" width="22" style="vertical-align: middle;" /> **Featured Repositories**
 
 <div align="center">
 
@@ -70,28 +78,40 @@
 
 </div>
 
+<br/>
+
 <p align="center">
-  <font color="#FF69B4">❖</font> <b><a href="https://github.com/Vinutha1010?tab=repositories"><font color="#FF69B4">Explore all public repositories on GitHub →</font></a></b>
+  <img src="https://cdn.simpleicons.org/github/FF69B4" width="16" style="vertical-align: middle;" /> <b><a href="https://github.com/Vinutha1010?tab=repositories"><font color="#FF69B4">Explore all public repositories on GitHub →</font></a></b>
 </p>
 
+<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
+<br/><br/>
 
-### <font color="#FF69B4">★</font> **Certifications & Achievements**
+### <img src="https://cdn.simpleicons.org/awesomelists/FF69B4" width="22" style="vertical-align: middle;" /> **Certifications & Achievements**
 
-* <font color="#FF69B4">★</font> **1st Place Winner:** PALS Think2Impact Workshop
-* <font color="#FF69B4">⌨</font> **Participant:** Smart India Internal Hackathon (SIH 2025) – *Disaster Management Theme*
-* <font color="#FF69B4">✦</font> **NPTEL Elite:** The Joy of Computing using Python
-* <font color="#FF69B4">♨</font> **NPTEL Elite:** DSA using Java (IIT Kharagpur)
-* <font color="#FF69B4">☷</font> **NPTEL:** Data Mining for Decision Making
-* <font color="#FF69B4">⛁</font> **PostgreSQL:** Become an SQL Developer
-* <font color="#FF69B4">☁</font> **Simplilearn:** Getting Started with AWS Services Fundamentals for Beginners
-* <font color="#FF69B4">❦</font> **MongoDB Certified:** Document Model & Atlas
-* <font color="#FF69B4">⚿</font> **Cisco Academy:** Introduction to Cybersecurity
-* <font color="#FF69B4">⚙</font> **Skill India Digital:** AI Certification (270 Hrs)
+<div align="center">
 
+| Issuer / Platform | Certification & Achievement |
+| :--- | :--- |
+| <img src="https://cdn.simpleicons.org/topcoder/FF69B4" width="18" style="vertical-align: middle;" /> **PALS** | 1st Place Winner: Think2Impact Workshop |
+| <img src="https://cdn.simpleicons.org/hackaday/FF69B4" width="18" style="vertical-align: middle;" /> **Smart India Hackathon** | Participant (SIH 2025) – *Disaster Management Theme* |
+| <img src="https://cdn.simpleicons.org/python/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Elite: The Joy of Computing using Python |
+| <img src="https://cdn.simpleicons.org/openjdk/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Elite: DSA using Java (IIT Kharagpur) |
+| <img src="https://cdn.simpleicons.org/databricks/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Data Mining for Decision Making |
+| <img src="https://cdn.simpleicons.org/postgresql/FF69B4" width="18" style="vertical-align: middle;" /> **PostgreSQL** | Become an SQL Developer |
+| <img src="https://api.iconify.design/cib:amazon-aws.svg?color=%23FF69B4" width="18" style="vertical-align: middle;" /> **Simplilearn** | Getting Started with AWS Services Fundamentals for Beginners |
+| <img src="https://cdn.simpleicons.org/mongodb/FF69B4" width="18" style="vertical-align: middle;" /> **MongoDB** | MongoDB Certified: Document Model & Atlas |
+| <img src="https://cdn.simpleicons.org/cisco/FF69B4" width="18" style="vertical-align: middle;" /> **Cisco Academy** | Introduction to Cybersecurity |
+| <img src="https://cdn.simpleicons.org/tensorflow/FF69B4" width="18" style="vertical-align: middle;" /> **Skill India Digital** | AI Certification (270 Hrs) |
+
+</div>
+
+<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-8411-37df23ae43e3.gif" width="100%" />
+<br/><br/>
 
-### <font color="#FF69B4">⟡</font> **GitHub Telemetry & Stats**
+### <img src="https://cdn.simpleicons.org/googleanalytics/FF69B4" width="22" style="vertical-align: middle;" /> **GitHub Telemetry & Stats**
 
 <div align="center">
   <a href="https://github.com/Vinutha1010?tab=repositories">

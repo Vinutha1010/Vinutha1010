@@ -1,20 +1,30 @@
 <div align="center">
 
-  <!-- 🏷️ Profile Views & Status Badges -->
+  <!-- 🌸 Badges Row -->
   <p align="center">
+    <a href="https://vinutha1010.github.io/">
+      <img src="https://img.shields.io/badge/🌸_Live_Portfolio-vinutha1010.github.io-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
     <img src="https://komarev.com/ghpvc/?username=Vinutha1010&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building_%26_Open_to_Roles-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-18181B?style=for-the-badge&logo=academia&logoColor=FF69B4&labelColor=18181B" alt="CGPA" />
+    <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-18181B?style=for-the-badge&logo=academia&logoColor=FFB6C1&labelColor=18181B" alt="CGPA" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Roles-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
   </p>
 
   <br/>
 
-  <!-- 🌟 Main Title -->
-  <h1><font color="#FF69B4">Software Engineering with Elegance &amp; Precision</font></h1>
+  <!-- 🌸 Hero Header -->
+  <h1><font color="#FF69B4">🌸 Hi, I'm Vinutha ✦</font></h1>
 
   <!-- ⌨️ Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF69B4&center=true&vcenter=true&width=650&height=50&lines=Hi,+I'm+Vinutha;Software+Engineer+%26+Full-Stack+Developer;Java+Specialist+%7C+Spring+%26+OOP+Architecture;Building+Intelligent+Web+%26+AI+Applications;1st+Place+Winner+%40+PALS+Think2Impact;Crafting+Code+with+Elegance+%26+Precision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1200&color=FF69B4&center=true&vcenter=true&width=650&height=50&lines=Software+Engineer+%26+Developer;Java+Systems+%26+Full-Stack+Web;Building+AI+%26+Clean+Architecture;Crafting+Code+with+Elegance+%26+Precision" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- 🌸 Hero Banner Artwork -->
+  <a href="https://vinutha1010.github.io/">
+    <img src="https://vinutha1010.github.io/1000175131.png" width="100%" alt="Vinutha Portfolio Banner" />
   </a>
 
   <br/><br/>
@@ -27,8 +37,11 @@
     <a href="https://www.linkedin.com/in/vinutha-90803a3b2/">
       <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=18181B" alt="LinkedIn" />
     </a>
+    <a href="https://vinutha1010.github.io/">
+      <img src="https://img.shields.io/badge/Website-vinutha1010.github.io-FF69B4?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
+    </a>
     <a href="https://github.com/Vinutha1010?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub_Projects-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub_Projects-18181B?style=for-the-badge&logo=github&logoColor=FF69B4&labelColor=18181B" alt="GitHub" />
     </a>
   </p>
 
@@ -39,35 +52,19 @@
 <br/><br/>
 
 <!-- ================================================================= -->
-<!-- 💫 ABOUT & PORTFOLIO OVERVIEW 💫 -->
+<!-- 💫 ABOUT ME 💫 -->
 <!-- ================================================================= -->
 
-### 👩‍💻 **About Me**
-
-```typescript
-const vinutha: DeveloperProfile = {
-  name: "Vinutha",
-  degree: "B.E. in Information Science & Engineering",
-  institution: "Adichunchanagiri Institute of Technology (AIT)",
-  academics: { cgpa: 9.13, scale: 10.0 },
-  currentRole: "Java Development Intern @ Codveda Technologies",
-  currentBuild: "LockedIn — AI Mock Interview & Evaluation Platform",
-  passions: [
-    "Clean Architecture & Design Patterns",
-    "Scalable Full-Stack Web Applications",
-    "High-Performance Backend Microservices",
-    "AI-Assisted Developer Tooling"
-  ],
-  status: "Open to Software Engineering Roles & Collaborative Projects"
-};
-```
+### 🌸 **About Me**
 
 <div align="left">
 
-- 🎓 **Academic Excellence:** Final-year ISE undergraduate with a strong foundation in Data Structures, Algorithms, DBMS, Operating Systems, and Computer Networks.
-- 💼 **Industry Experience:** Java Development Intern at **Codveda Technologies**, building modular OOP applications, database-driven utilities, and robust backends.
-- 🏆 **Hackathon & Workshop Accolades:** 1st Place Winner at **PALS Think2Impact Workshop** & participant in **Smart India Hackathon (SIH 2025)** under the Disaster Management theme.
-- 💡 **Engineering Philosophy:** Constructing scalable software solutions with clean architecture, high visual polish, and engineering precision.
+- 🎓 **Academics:** Final-year Information Science & Engineering student at **Adichunchanagiri Institute of Technology (AIT)** with a **9.13 / 10.0 CGPA**.
+- 💼 **Experience:** Java Development Intern at **Codveda Technologies**, engineering modular OOP software, database pipelines, and full-stack utilities.
+- 🔭 **Current Focus:** Developing **LockedIn** — an AI-powered mock interview platform for real-time candidate simulation and automated feedback.
+- 🏆 **Major Achievement:** 1st Place Winner at the **PALS Think2Impact Workshop** & participant in **Smart India Hackathon (SIH 2025)** under Disaster Management.
+- 💡 **Passion:** Blending scalable software design patterns with high visual polish, clean architecture, and modern web performance.
+- 🌐 **Live Portfolio:** [**vinutha1010.github.io**](https://vinutha1010.github.io/)
 
 </div>
 
@@ -76,18 +73,18 @@ const vinutha: DeveloperProfile = {
 <br/><br/>
 
 <!-- ================================================================= -->
-<!-- 🛠️ SKILLS & TECHNOLOGIES (UNIFIED BENTO) 🛠️ -->
+<!-- 🛠️ SKILLS & TECHNOLOGIES 🛠️ -->
 <!-- ================================================================= -->
 
 ### ⚡ **Tech Stack & Toolbelt**
 
 <div align="center">
 
-| Domain | Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,mysql&theme=dark" alt="Languages" /></a> |
-| **Web & APIs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind&theme=dark" alt="Web & APIs" /></a> |
-| **Databases & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,git,linux&theme=dark" alt="Databases & DevOps" /></a> |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=FF69B4) ![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=FF69B4) ![C++](https://img.shields.io/badge/C%2B%2B-FF69B4?style=for-the-badge&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=mysql&logoColor=FF69B4) |
+| **Web & APIs** | ![React](https://img.shields.io/badge/React-FF69B4?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=FF69B4) ![Express.js](https://img.shields.io/badge/Express-FF69B4?style=for-the-badge&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-18181B?style=for-the-badge&logo=fastapi&logoColor=FF69B4) ![HTML5/CSS3](https://img.shields.io/badge/HTML5%2FCSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-18181B?style=for-the-badge&logo=tailwindcss&logoColor=FF69B4) |
+| **Databases & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=FF69B4) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF69B4?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-18181B?style=for-the-badge&logo=mongodb&logoColor=FF69B4) ![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-18181B?style=for-the-badge&logo=linux&logoColor=FF69B4) ![AWS](https://img.shields.io/badge/AWS-FF69B4?style=for-the-badge&logo=amazonaws&logoColor=white) |
 
 </div>
 
@@ -103,7 +100,7 @@ const vinutha: DeveloperProfile = {
 
 <div align="center">
 
-| Project | Key Architecture & Capabilities | Stack | Status | Link |
+| Project | Key Architecture & Highlights | Stack | Status | Repository Link |
 | :--- | :--- | :---: | :---: | :---: |
 | **LockedIn** | **AI Mock Interview Platform:** Real-time audio/text interview simulation with automated candidate evaluation and smart feedback generation. | `TypeScript` `Next.js` `AI` | `In Progress` | [**View Repo →**](https://github.com/Vinutha1010/LockedIn) |
 | **Codveda-Java-Projects** | **Comprehensive Java Suite:** 9 end-to-end Java projects spanning OOP architecture, file streams, JDBC database management, and multi-threaded socket communication. | `Java` `JDBC` `MySQL` | `Complete` | [**View Repo →**](https://github.com/Vinutha1010/Codveda-Java-Projects) |
@@ -169,7 +166,7 @@ const vinutha: DeveloperProfile = {
 
 <div align="center">
 
-  <h3>🤝 <b>Let's Connect & Build Something Extraordinary!</b></h3>
+  <h3>🌸 <b>Let's Connect & Build Something Extraordinary!</b></h3>
 
   <p>
     Whether you want to discuss full-stack architecture, collaborate on innovative projects, or talk tech — my inbox is always open!
@@ -182,15 +179,18 @@ const vinutha: DeveloperProfile = {
     <a href="https://www.linkedin.com/in/vinutha-90803a3b2/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Vinutha-18181B?style=for-the-badge&logo=linkedin&logoColor=FF69B4&labelColor=18181B" alt="LinkedIn" />
     </a>
+    <a href="https://vinutha1010.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-vinutha1010.github.io-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
     <a href="https://github.com/Vinutha1010?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-View_All-FF69B4?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos" />
+      <img src="https://img.shields.io/badge/Repositories-View_All-18181B?style=for-the-badge&logo=github&logoColor=FF69B4&labelColor=18181B" alt="Public Repos" />
     </a>
   </p>
 
   <br/>
 
   <p align="center">
-    <i>✦ Crafted with Precision &amp; Elegance by <a href="https://github.com/Vinutha1010"><font color="#FF69B4"><b>Vinutha</b></font></a> ✦</i>
+    <i>🌸 Crafted with Precision &amp; Elegance by <a href="https://vinutha1010.github.io/"><font color="#FF69B4"><b>Vinutha</b></font></a> ✦</i>
   </p>
 
 </div>

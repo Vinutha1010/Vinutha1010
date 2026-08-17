@@ -1,17 +1,5 @@
 <div align="center">
 
-  <!-- 🌊 Animated Wave Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:18181B,25:3b0a2a,50:FF69B4,80:FF1493,100:18181B&height=200&section=header&text=Hi,%20I'm%20Vinutha&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Java%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Vinutha Header Banner" />
-
-  <br/>
-
-  <!-- ⌨️ Dynamic Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1200&color=FF69B4&center=true&vcenter=true&width=650&height=50&lines=Software+Engineer+%26+Developer;Java+Systems+%26+Full-Stack+Web;Building+AI+%26+Clean+Architecture;Crafting+Code+with+Elegance+%26+Precision" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
   <!-- 🌸 Badges Row -->
   <p align="center">
     <a href="https://vinutha1010.github.io/">
@@ -20,6 +8,18 @@
     <img src="https://komarev.com/ghpvc/?username=Vinutha1010&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Open_to_Roles-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
   </p>
+
+  <br/>
+
+  <!-- 🌸 Main Title -->
+  <h1><font color="#FF69B4">🌸 Hello, I'm Vinutha ✦</font></h1>
+
+  <!-- ⌨️ Dynamic Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1200&color=FF69B4&center=true&vcenter=true&width=650&height=50&lines=Software+Engineer+%26+Developer;Java+Systems+%26+Full-Stack+Web;Building+AI+%26+Clean+Architecture;Crafting+Code+with+Elegance+%26+Precision" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
 
   <!-- 🌐 Social / Connect Badges -->
   <p align="center">
@@ -180,9 +180,6 @@
   </p>
 
   <br/>
-
-  <!-- 🌊 Animated Wave Footer Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF1493,25:FF69B4,50:3b0a2a,75:18181B,100:18181B&height=120&section=footer" width="100%" alt="Footer Wave" />
 
   <p align="center">
     <i>🌸 Crafted with Precision &amp; Elegance by <a href="https://vinutha1010.github.io/"><font color="#FF69B4"><b>Vinutha</b></font></a> ✦</i>

@@ -1,19 +1,9 @@
 <div align="center">
 
-  <!-- 🌸 Badges Row -->
-  <p align="center">
-    <a href="https://vinutha1010.github.io/">
-      <img src="https://img.shields.io/badge/🌸_Live_Portfolio-vinutha1010.github.io-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Vinutha1010&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/CGPA-9.13%20%2F%2010.0-18181B?style=for-the-badge&logo=academia&logoColor=FFB6C1&labelColor=18181B" alt="CGPA" />
-    <img src="https://img.shields.io/badge/Status-Open_to_Roles-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
-  </p>
+  <!-- 🌊 Animated Wave Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:18181B,25:3b0a2a,50:FF69B4,80:FF1493,100:18181B&height=200&section=header&text=Hi,%20I'm%20Vinutha&fontSize=42&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Java%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Vinutha Header Banner" />
 
   <br/>
-
-  <!-- 🌸 Hero Header -->
-  <h1><font color="#FF69B4">🌸 Hi, I'm Vinutha ✦</font></h1>
 
   <!-- ⌨️ Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -22,12 +12,14 @@
 
   <br/><br/>
 
-  <!-- 🌸 Hero Banner Artwork -->
-  <a href="https://vinutha1010.github.io/">
-    <img src="https://vinutha1010.github.io/1000175131.png" width="100%" alt="Vinutha Portfolio Banner" />
-  </a>
-
-  <br/><br/>
+  <!-- 🌸 Badges Row -->
+  <p align="center">
+    <a href="https://vinutha1010.github.io/">
+      <img src="https://img.shields.io/badge/🌸_Live_Portfolio-vinutha1010.github.io-FF69B4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Vinutha1010&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open_to_Roles-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  </p>
 
   <!-- 🌐 Social / Connect Badges -->
   <p align="center">
@@ -59,7 +51,7 @@
 
 <div align="left">
 
-- 🎓 **Academics:** Final-year Information Science & Engineering student at **Adichunchanagiri Institute of Technology (AIT)** with a **9.13 / 10.0 CGPA**.
+- 🎓 **Academics:** Final-year Information Science & Engineering student at **Adichunchanagiri Institute of Technology (AIT)**.
 - 💼 **Experience:** Java Development Intern at **Codveda Technologies**, engineering modular OOP software, database pipelines, and full-stack utilities.
 - 🔭 **Current Focus:** Developing **LockedIn** — an AI-powered mock interview platform for real-time candidate simulation and automated feedback.
 - 🏆 **Major Achievement:** 1st Place Winner at the **PALS Think2Impact Workshop** & participant in **Smart India Hackathon (SIH 2025)** under Disaster Management.
@@ -130,7 +122,7 @@
 | Issuer / Platform | Certification & Achievement | Distinction / Level |
 | :--- | :--- | :---: |
 | <img src="https://cdn.simpleicons.org/topcoder/FF69B4" width="18" style="vertical-align: middle;" /> **PALS** | **1st Place Winner**: Think2Impact Workshop | 🥇 **Champion** |
-| <img src="https://cdn.simpleicons.org/hackaday/FF69B4" width="18" style="vertical-align: middle;" /> **Smart India Hackathon** | Participant (SIH 2025) – *Disaster Management Theme* | 🚀 **National Finalist** |
+| <img src="https://cdn.simpleicons.org/hackaday/FF69B4" width="18" style="vertical-align: middle;" /> **Smart India Hackathon** | Participant (SIH 2025) – *Disaster Management Theme* | 🚀 **Participant** |
 | <img src="https://cdn.simpleicons.org/python/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | The Joy of Computing using Python | 🎖️ **Elite** |
 | <img src="https://cdn.simpleicons.org/openjdk/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Data Structures & Algorithms using Java (IIT Kharagpur) | 🎖️ **Elite** |
 | <img src="https://cdn.simpleicons.org/databricks/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Data Mining for Decision Making | 📜 **Certified** |
@@ -188,6 +180,9 @@
   </p>
 
   <br/>
+
+  <!-- 🌊 Animated Wave Footer Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:FF1493,25:FF69B4,50:3b0a2a,75:18181B,100:18181B&height=120&section=footer" width="100%" alt="Footer Wave" />
 
   <p align="center">
     <i>🌸 Crafted with Precision &amp; Elegance by <a href="https://vinutha1010.github.io/"><font color="#FF69B4"><b>Vinutha</b></font></a> ✦</i>

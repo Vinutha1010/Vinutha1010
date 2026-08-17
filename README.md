@@ -99,7 +99,7 @@
 | <img src="https://cdn.simpleicons.org/python/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Elite: The Joy of Computing using Python |
 | <img src="https://cdn.simpleicons.org/openjdk/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Elite: DSA using Java (IIT Kharagpur) |
 | <img src="https://cdn.simpleicons.org/databricks/FF69B4" width="18" style="vertical-align: middle;" /> **NPTEL** | Data Mining for Decision Making |
-| <img src="https://cdn.simpleicons.org/postgresql/FF69B4" width="18" style="vertical-align: middle;" /> **PostgreSQL** | Become an SQL Developer |
+| <img src="https://cdn.simpleicons.org/postgresql/FF69B4" width="18" style="vertical-align: middle;" /> **Simplilearn** | PostgreSQL- Become an SQL Developer |
 | <img src="https://api.iconify.design/cib:amazon-aws.svg?color=%23FF69B4" width="18" style="vertical-align: middle;" /> **Simplilearn** | Getting Started with AWS Services Fundamentals for Beginners |
 | <img src="https://cdn.simpleicons.org/mongodb/FF69B4" width="18" style="vertical-align: middle;" /> **MongoDB** | MongoDB Certified: Document Model & Atlas |
 | <img src="https://cdn.simpleicons.org/cisco/FF69B4" width="18" style="vertical-align: middle;" /> **Cisco Academy** | Introduction to Cybersecurity |

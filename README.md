@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- 🏷️ Profile Views & Status -->
+  <!-- 🏷️ Profile Views & Status Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Vinutha1010&color=FF69B4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     <img src="https://img.shields.io/badge/Status-Building_%26_Open_to_Roles-FF69B4?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
@@ -10,11 +10,11 @@
   <br/>
 
   <!-- 🌟 Main Title -->
-  <h1><font color="#FF69B4">✦ Software Engineering with Elegance &amp; Precision ✦</font></h1>
+  <h1><font color="#FF69B4">Software Engineering with Elegance &amp; Precision</font></h1>
 
   <!-- ⌨️ Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF69B4&center=true&vcenter=true&width=650&height=50&lines=Hi,+I'm+Vinutha+✨;Software+Engineer+%26+Full-Stack+Developer;Java+Specialist+%7C+Spring+%26+OOP+Architecture;Building+Intelligent+Web+%26+AI+Applications;1st+Place+Winner+%40+PALS+Think2Impact;Crafting+Code+with+Elegance+%26+Precision" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=FF69B4&center=true&vcenter=true&width=650&height=50&lines=Hi,+I'm+Vinutha;Software+Engineer+%26+Full-Stack+Developer;Java+Specialist+%7C+Spring+%26+OOP+Architecture;Building+Intelligent+Web+%26+AI+Applications;1st+Place+Winner+%40+PALS+Think2Impact;Crafting+Code+with+Elegance+%26+Precision" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -108,7 +108,7 @@ const vinutha: DeveloperProfile = {
 | **LockedIn** | **AI Mock Interview Platform:** Real-time audio/text interview simulation with automated candidate evaluation and smart feedback generation. | `TypeScript` `Next.js` `AI` | `In Progress` | [**View Repo →**](https://github.com/Vinutha1010/LockedIn) |
 | **Codveda-Java-Projects** | **Comprehensive Java Suite:** 9 end-to-end Java projects spanning OOP architecture, file streams, JDBC database management, and multi-threaded socket communication. | `Java` `JDBC` `MySQL` | `Complete` | [**View Repo →**](https://github.com/Vinutha1010/Codveda-Java-Projects) |
 | **Java-stopwatch-timer** | **Precision Desktop Utility:** Customizable, always-on-top Java Swing desktop application featuring dual-mode precision timing and custom visual themes. | `Java` `Swing` `AWT` | `Complete` | [**View Repo →**](https://github.com/Vinutha1010/Java-stopwatch-timer) |
-| **Java-beginner-projects** | **Core Java Foundation:** Modular applications demonstrating OOP principles, algorithmic problem solving, and standard Java design patterns. | `Java` `OOP` | `Complete` | [**View Repo →**](https://github.com/Vinutha1010/Java-beginner-projects) |
+| **Java-beginner-projects** | **Core Java Foundation:** Modular applications illustrating OOP principles, algorithmic problem solving, and standard Java design patterns. | `Java` `OOP` | `Complete` | [**View Repo →**](https://github.com/Vinutha1010/Java-beginner-projects) |
 
 </div>
 

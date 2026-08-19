@@ -164,9 +164,9 @@
   <!-- Top Status Badge: "OPEN TO OPPORTUNITIES" -->
   <g transform="translate(345, 32)">
     <rect x="0" y="0" width="230" height="28" rx="14" fill="url(#badgeBg)" stroke="#FF69B4" stroke-width="1.2" stroke-opacity="0.6" filter="url(#pinkGlow)" />
-    <!-- Pulsing Green/Pink Dot -->
-    <circle cx="20" cy="14" r="5" fill="#22C55E" class="pulse-dot" />
-    <circle cx="20" cy="14" r="9" fill="#22C55E" opacity="0.25" class="pulse-dot" />
+    <!-- Pulsing Hot Pink Dot -->
+    <circle cx="20" cy="14" r="5" fill="#FF69B4" class="pulse-dot" />
+    <circle cx="20" cy="14" r="9" fill="#FF69B4" opacity="0.35" class="pulse-dot" />
     <text x="35" y="18" fill="#FFF0F5" class="status-text">OPEN TO OPPORTUNITIES</text>
   </g>
 

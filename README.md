@@ -183,12 +183,6 @@
 
 <div align="center">
 
-  <a href="mailto:vinuthaa1010@gmail.com">
-    <img src="assets/footer.svg" width="100%" alt="Crafted by Vinutha" />
-  </a>
-
-  <br/><br/>
-
   <p align="center">
     <a href="mailto:vinuthaa1010@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-vinuthaa1010%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -203,8 +197,8 @@
 
   <br/>
 
-  <p align="center">
-    <i>✦ Designed &amp; Crafted with Precision by <a href="https://vinutha1010.github.io/"><font color="#FF69B4"><b>Vinutha</b></font></a> ✦</i>
-  </p>
+  <a href="mailto:vinuthaa1010@gmail.com">
+    <img src="assets/footer.svg" width="100%" alt="Crafted by Vinutha" />
+  </a>
 
 </div>

@@ -133,29 +133,30 @@
 <!-- 📊 GITHUB TELEMETRY & STATS 📊 -->
 <!-- ================================================================= -->
 
-### <img src="https://cdn.simpleicons.org/googleanalytics/FF69B4" width="22" style="vertical-align: middle;" /> **GitHub Telemetry &amp; Metrics**
+### <img src="https://cdn.simpleicons.org/googleanalytics/FF69B4" width="22" style="vertical-align: middle;" /> **GitHub Telemetry &amp; Engineering Metrics**
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Vinutha1010">
-          <img src="https://github-readme-stats.vercel.app/api?username=Vinutha1010&show_icons=true&theme=midnight-purple&bg_color=08070A&title_color=FF69B4&text_color=FFF0F5&icon_color=FF69B4&border_color=FFB6C1&border_radius=16&hide_border=false" alt="Vinutha's GitHub Stats" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Vinutha1010">
-          <img src="https://streak-stats.demolab.com?user=Vinutha1010&theme=dark&background=08070A&border=FFB6C1&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakNum=FFF0F5&sideNums=FFF0F5&currStreakLabel=FF69B4&sideLabels=FFB6C1&dates=D8BFD8&hide_border=false&border_radius=16" alt="Vinutha's GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
 
-  <a href="https://github.com/Vinutha1010">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinutha1010&layout=compact&theme=midnight-purple&bg_color=08070A&title_color=FF69B4&text_color=FFF0F5&border_color=FFB6C1&border_radius=16&hide_border=false" alt="Top Languages" />
-  </a>
+  <img src="assets/telemetry.svg" width="100%" alt="Vinutha's Engineering Telemetry &amp; Metrics" />
+
+  <br/><br/>
+
+  <!-- Real-Time Activity Badges -->
+  <p align="center">
+    <a href="https://github.com/Vinutha1010?tab=repositories">
+      <img src="https://img.shields.io/badge/Public_Repositories-Explore-18181B?style=for-the-badge&logo=github&logoColor=FF69B4&labelColor=18181B&color=FF69B4" alt="Public Repos" />
+    </a>
+    <a href="https://github.com/Vinutha1010?tab=followers">
+      <img src="https://img.shields.io/github/followers/Vinutha1010?style=for-the-badge&logo=github&logoColor=FF69B4&labelColor=18181B&color=FF69B4" alt="Followers" />
+    </a>
+    <a href="https://github.com/Vinutha1010">
+      <img src="https://img.shields.io/github/stars/Vinutha1010?style=for-the-badge&logo=apachespark&logoColor=FF69B4&labelColor=18181B&color=FF69B4" alt="Total Stars" />
+    </a>
+    <a href="https://github.com/Vinutha1010">
+      <img src="https://img.shields.io/badge/Activity-Continuous_Learning-FF69B4?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Continuous Learning" />
+    </a>
+  </p>
+
 </div>
 
 <br/>

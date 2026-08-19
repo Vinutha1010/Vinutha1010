@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 290" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="telemetryBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08070A" />
+      <stop offset="50%" stop-color="#14101B" />
+      <stop offset="100%" stop-color="#08070A" />
+    </linearGradient>
+
+    <!-- Card Background Gradient -->
+    <linearGradient id="innerCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#191522" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#100C16" stop-opacity="0.85" />
+    </linearGradient>
+
+    <!-- Animated Border Gradient -->
+    <linearGradient id="telemetryBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF69B4">
+        <animate attributeName="stop-color" values="#FF69B4;#A855F7;#FF1493;#FF69B4" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#FF1493">
+        <animate attributeName="stop-color" values="#FF1493;#FF69B4;#A855F7;#FF1493" dur="7s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#A855F7">
+        <animate attributeName="stop-color" values="#A855F7;#FF1493;#FF69B4;#A855F7" dur="7s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Bar Gradients -->
+    <linearGradient id="barJava" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF69B4" />
+      <stop offset="100%" stop-color="#FF1493" />
+    </linearGradient>
+    <linearGradient id="barTS" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFB6C1" />
+      <stop offset="100%" stop-color="#FF69B4" />
+    </linearGradient>
+    <linearGradient id="barPy" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A855F7" />
+      <stop offset="100%" stop-color="#D1477F" />
+    </linearGradient>
+    <linearGradient id="barSQL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF1493" />
+      <stop offset="100%" stop-color="#A855F7" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="tglow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes barAnimJava {
+        0% { width: 0px; }
+        100% { width: 175px; }
+      }
+      @keyframes barAnimTS {
+        0% { width: 0px; }
+        100% { width: 115px; }
+      }
+      @keyframes barAnimPy {
+        0% { width: 0px; }
+        100% { width: 68px; }
+      }
+      @keyframes barAnimSQL {
+        0% { width: 0px; }
+        100% { width: 50px; }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+
+      .card-title {
+        font-family: 'Playfair Display', Georgia, serif;
+        font-weight: 700;
+        font-size: 15px;
+        letter-spacing: 1.5px;
+      }
+      .metric-label {
+        font-family: 'Quicksand', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-weight: 600;
+        font-size: 12px;
+      }
+      .metric-value {
+        font-family: 'Fira Code', monospace;
+        font-weight: 700;
+        font-size: 12px;
+      }
+      .stat-num {
+        font-family: 'Playfair Display', Georgia, serif;
+        font-weight: 700;
+        font-size: 22px;
+      }
+      .stat-desc {
+        font-family: 'Quicksand', -apple-system, sans-serif;
+        font-weight: 600;
+        font-size: 11px;
+        letter-spacing: 0.5px;
+      }
+    </style>
+  </defs>
+
+  <!-- Ambient Glow -->
+  <circle cx="200" cy="100" r="100" fill="#FF69B4" opacity="0.08" filter="url(#tglow)" />
+  <circle cx="700" cy="180" r="110" fill="#A855F7" opacity="0.08" filter="url(#tglow)" />
+
+  <!-- Outer Frame -->
+  <rect x="6" y="6" width="908" height="278" rx="20" fill="url(#telemetryBg)" stroke="url(#telemetryBorder)" stroke-width="1.8" />
+
+  <!-- ==================== LEFT CARD: Language & Core Stack Breakdown ==================== -->
+  <g transform="translate(26, 26)">
+    <!-- Inner Card Frame -->
+    <rect x="0" y="0" width="418" height="238" rx="14" fill="url(#innerCardBg)" stroke="#FFB6C1" stroke-opacity="0.18" stroke-width="1" />
+    
+    <!-- Title -->
+    <text x="24" y="36" fill="#FF69B4" class="card-title" filter="url(#tglow)">⚡ LANGUAGE &amp; TECH MATRIX</text>
+    <line x1="24" y1="48" x2="394" y2="48" stroke="#FF69B4" stroke-opacity="0.15" stroke-width="1" />
+
+    <!-- Language 1: Java -->
+    <g transform="translate(24, 66)">
+      <text x="0" y="12" fill="#FFF0F5" class="metric-label">☕ Java &amp; Enterprise</text>
+      <text x="370" y="12" text-anchor="end" fill="#FF69B4" class="metric-value">42%</text>
+      <!-- Track -->
+      <rect x="0" y="18" width="370" height="8" rx="4" fill="#08070A" stroke="#FF69B4" stroke-opacity="0.2" />
+      <!-- Bar -->
+      <rect x="0" y="18" width="155" height="8" rx="4" fill="url(#barJava)" />
+    </g>
+
+    <!-- Language 2: TypeScript & React -->
+    <g transform="translate(24, 108)">
+      <text x="0" y="12" fill="#FFF0F5" class="metric-label">⚡ TypeScript &amp; React</text>
+      <text x="370" y="12" text-anchor="end" fill="#FFB6C1" class="metric-value">28%</text>
+      <!-- Track -->
+      <rect x="0" y="18" width="370" height="8" rx="4" fill="#08070A" stroke="#FF69B4" stroke-opacity="0.2" />
+      <!-- Bar -->
+      <rect x="0" y="18" width="104" height="8" rx="4" fill="url(#barTS)" />
+    </g>
+
+    <!-- Language 3: Python & AI -->
+    <g transform="translate(24, 150)">
+      <text x="0" y="12" fill="#FFF0F5" class="metric-label">🤖 Python, AI &amp; Algorithms</text>
+      <text x="370" y="12" text-anchor="end" fill="#A855F7" class="metric-value">18%</text>
+      <!-- Track -->
+      <rect x="0" y="18" width="370" height="8" rx="4" fill="#08070A" stroke="#FF69B4" stroke-opacity="0.2" />
+      <!-- Bar -->
+      <rect x="0" y="18" width="67" height="8" rx="4" fill="url(#barPy)" />
+    </g>
+
+    <!-- Language 4: SQL & Databases -->
+    <g transform="translate(24, 192)">
+      <text x="0" y="12" fill="#FFF0F5" class="metric-label">🗄️ SQL &amp; PostgreSQL / Mongo</text>
+      <text x="370" y="12" text-anchor="end" fill="#FF1493" class="metric-value">12%</text>
+      <!-- Track -->
+      <rect x="0" y="18" width="370" height="8" rx="4" fill="#08070A" stroke="#FF69B4" stroke-opacity="0.2" />
+      <!-- Bar -->
+      <rect x="0" y="18" width="44" height="8" rx="4" fill="url(#barSQL)" />
+    </g>
+  </g>
+
+  <!-- ==================== RIGHT CARD: Engineering Telemetry & Highlights ==================== -->
+  <g transform="translate(476, 26)">
+    <!-- Inner Card Frame -->
+    <rect x="0" y="0" width="418" height="238" rx="14" fill="url(#innerCardBg)" stroke="#FFB6C1" stroke-opacity="0.18" stroke-width="1" />
+    
+    <!-- Title -->
+    <text x="24" y="36" fill="#FF69B4" class="card-title" filter="url(#tglow)">✦ ENGINEERING METRICS</text>
+    <line x1="24" y1="48" x2="394" y2="48" stroke="#FF69B4" stroke-opacity="0.15" stroke-width="1" />
+
+    <!-- Metric Grid 2x2 -->
+    <!-- Metric 1: CGPA -->
+    <g transform="translate(24, 64)">
+      <rect x="0" y="0" width="175" height="70" rx="10" fill="#0D0A13" stroke="#FF69B4" stroke-opacity="0.3" stroke-width="1" />
+      <text x="16" y="32" fill="#FFF0F5" class="stat-num">9.13</text>
+      <text x="68" y="32" fill="#FF69B4" font-size="12" font-family="'Quicksand', sans-serif" font-weight="700">/ 10.0</text>
+      <text x="16" y="54" fill="#D8BFD8" class="stat-desc">🎓 Academic CGPA (AIT)</text>
+    </g>
+
+    <!-- Metric 2: Java Projects -->
+    <g transform="translate(219, 64)">
+      <rect x="0" y="0" width="175" height="70" rx="10" fill="#0D0A13" stroke="#A855F7" stroke-opacity="0.3" stroke-width="1" />
+      <text x="16" y="32" fill="#FFF0F5" class="stat-num">9+</text>
+      <text x="56" y="32" fill="#A855F7" font-size="12" font-family="'Quicksand', sans-serif" font-weight="700">Modules</text>
+      <text x="16" y="54" fill="#D8BFD8" class="stat-desc">☕ Enterprise Java Suite</text>
+    </g>
+
+    <!-- Metric 3: Awards & SIH -->
+    <g transform="translate(24, 148)">
+      <rect x="0" y="0" width="175" height="70" rx="10" fill="#0D0A13" stroke="#FF1493" stroke-opacity="0.3" stroke-width="1" />
+      <text x="16" y="32" fill="#FFF0F5" class="stat-num">1st Place</text>
+      <text x="16" y="54" fill="#D8BFD8" class="stat-desc">🥇 PALS Think2Impact</text>
+    </g>
+
+    <!-- Metric 4: Certifications -->
+    <g transform="translate(219, 148)">
+      <rect x="0" y="0" width="175" height="70" rx="10" fill="#0D0A13" stroke="#FFB6C1" stroke-opacity="0.3" stroke-width="1" />
+      <text x="16" y="32" fill="#FFF0F5" class="stat-num">10+</text>
+      <text x="64" y="32" fill="#FFB6C1" font-size="12" font-family="'Quicksand', sans-serif" font-weight="700">Verified</text>
+      <text x="16" y="54" fill="#D8BFD8" class="stat-desc">📜 Professional Certs</text>
+    </g>
+  </g>
+</svg>
